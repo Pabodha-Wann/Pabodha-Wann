@@ -4,8 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pabodha-wann&label=Profile%20views&color=0e75b6&style=flat" alt="pabodha-wann" /> </p>
 
 <hr width="100%" >
- 🎓I am currently readin for Bsc(Hons) in Software Engineering at university of Kelaniya
- 📫 How to reach me **pabodhawanniarachchi@gmail.com**
+- 🔭 At that movement I am reading for Bsc(Hons) in Software Engineering at university of Kelaniya
+- 🌱 I’m currently learning React JS
+- 👯 open source contributor
+- 📫 How to reach me: pabodhawanniarachchi@gmail.com
 
 <hr width="100%" >
 <h3 align="left">Languages and Tools:</h3>
