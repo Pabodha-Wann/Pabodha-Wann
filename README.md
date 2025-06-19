@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pabodha Wanniarachchi</h1>
-<h3 align="center">Software Engineering undergraduate from the University of Kelaniya, Sri Lanka</h3>
+<h3 align="center">Software Engineering Undergraduate</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pabodha-wann&label=Profile%20views&color=0e75b6&style=flat" alt="pabodha-wann" /> </p>
 
@@ -24,12 +24,13 @@
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paboda-Wann&show_icons=true&theme=dark&locale=en" width="48%" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+</p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en" alt="" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark" alt="" /></p>
