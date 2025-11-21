@@ -45,16 +45,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabodha-Wann&show_icons=true&theme=react-dark&layout=compact&hide_border=true" width="48%" />
 </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&layout=compact&hide_border" alt="" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&hide_border" alt="" /></p>
 
 
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300" alt="Coding GIF"/>
 </p>
-
+<img src="https://streak-stats.demolab.com?user=Pabodha-Wann&theme=react&hide_border=true&background=0D1117&fire=5CE1E6&ring=5CE1E6&currStreakLabel=5CE1E6" height="165" alt="GitHub Streak" />
 <p align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabodha-Wann&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabodha-Wann&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="500"/>
 </p>
 
 <hr width="100%">
