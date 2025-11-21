@@ -68,18 +68,25 @@
 <h3 align="left">Connect with me</h3>
 <p align="center">
 
-
-
-
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/pabodha-wanniarachchi-a0533a314" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin:5px"/>
 </a>
-<a href="mailto:pabodhawanniarachchi@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" style="margin:5px"/>
+
+<!-- Gmail (colorful) -->
+<a href="mailto:pabodhawanniarachchi@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" style="margin:5px"/>
 </a>
+
+<!-- Medium (colorful) -->
 <a href="https://medium.com/@pabodha726" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40" height="40" style="margin:5px; fill:#00ab6c"/>
 </a>
+
+<!-- Instagram (colorful gradient version) -->
 <a href="https://instagram.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" style="margin:5px"/>
 </a>
+
+
 </p>
