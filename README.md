@@ -56,7 +56,7 @@
 </p>
 
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&hide_border=false&border=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&hide_border=false&border=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="430"/>
 </p>
 
 <p align="center">
