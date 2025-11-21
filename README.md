@@ -52,7 +52,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&hide_border" alt="" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&hide_border" alt="" width="600"/>
 </p>
 
 <p align="right">
