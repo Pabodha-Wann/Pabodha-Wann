@@ -67,8 +67,19 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pabodha-wanniarachchi-a0533a314" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://medium.com/@pabodha726" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" style="margin:5px"/></a>
-  <a href="mailto:pabodhawanniarachchi@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" style="margin:5px"/></a>
+
+
+
+
+<a href="https://www.linkedin.com/in/pabodha-wanniarachchi-a0533a314" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="margin:5px"/>
+</a>
+<a href="mailto:pabodhawanniarachchi@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" style="margin:5px"/>
+</a>
+<a href="https://medium.com/@pabodha726" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40" height="40" style="margin:5px"/>
+</a>
+<a href="https://instagram.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" style="margin:5px"/>
+</a>
 </p>
