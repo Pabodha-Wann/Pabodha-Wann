@@ -56,7 +56,7 @@
 </p>
 
   
-<hr width="100%" >
+
 
 
 <hr width="100%" >
@@ -71,7 +71,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabodha-Wann&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-<br><br><br>
+<br><br><br><br>
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
