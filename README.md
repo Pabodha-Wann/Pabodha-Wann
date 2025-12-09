@@ -46,17 +46,24 @@
 </p> -->
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&layout=compact&hide_border" alt="" /></p>
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&layout=compact&hide_border" alt="" /></p> -->
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Pabodha-Wann&layout=compact&bg_color=0d1117&border_color=20E8EA&title_color=ff1493&text_color=ffffff&icon_color=ff1493&hide_border=false&locale=en" alt="" /></p>
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300" alt="Coding GIF"/>
 </p>
 
-<p>
+
+<!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&hide_border" alt="" width="400"/>
+</p> -->
+
+<p>
+  <img align="left" src="https://github-stats-alpha.vercel.app/api?username=Pabodha-Wann&cc=0d1117&tc=ffffff&ic=ff1493&bc=20E8EA" alt="" width="400"/>
 </p>
 
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&hide_border=false&border=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="430"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&background=151515&border=20E8EA&stroke=ff1493&ring=ff1493&fire=20E8EA&currStreakLabel=20E8EA&hide_border=false" alt="GitHub Streak" width="430"/>
 </p>
 
 <p align="center">
