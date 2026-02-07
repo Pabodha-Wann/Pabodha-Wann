@@ -24,7 +24,7 @@ I am a final-year Undergraduate at the **University of Kelaniya**, passionate ab
 
 <h3 align="left">Languages and Tools</h3>
 
-<p align="center">
+<p align="left">
   <!-- First Line -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin:5px"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin:5px"/></a>
@@ -34,7 +34,7 @@ I am a final-year Undergraduate at the **University of Kelaniya**, passionate ab
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="margin:5px"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Second Line -->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" style="margin:5px"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin:5px"/></a>
@@ -45,7 +45,7 @@ I am a final-year Undergraduate at the **University of Kelaniya**, passionate ab
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin:5px"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="margin:5px"/></a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" style="margin:5px"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin:5px"/></a>
