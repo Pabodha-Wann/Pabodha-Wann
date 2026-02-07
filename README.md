@@ -5,12 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=pabodha-wann&label=Profile%20views&color=0e75b6&style=flat" alt="pabodha-wann" />
 </p>
 
-<ul>
+<!-- <ul>
   <li>🔭 I am currently pursuing <b>BSc (Hons) in Software Engineering</b> at University of Kelaniya</li>
   <li>🌱 I’m currently learning <b>React JS</b></li>
   <li>👯 Open source contributor</li>
   <li>📫 How to reach me: <b>pabodhawanniarachchi@gmail.com</b></li>
-</ul>
+</ul> -->
+
+I am a final-year Undergraduate at the **University of Kelaniya**, passionate about building scalable software solutions and exploring the world of data.
+- 🔭 **I’m currently working on:** Full-stack web development (MERN Stack)
+- 🌱 **I’m currently learning:** Data Science, and **Spring Boot** architecture.
+- 👯 **I’m looking to collaborate on:** Open source MERN projects or Data visualization tools.
+- ⚡ **Interests:** Software Architecture, HCI, and Digital Wellbeing.
+- 📫 **How to reach me:** [pabodhawanniarachchi@gmail.com](mailto:pabodhawanniarachchi@gmail.com)
+
 
 <hr width="100%">
 
