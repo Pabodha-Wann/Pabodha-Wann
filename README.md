@@ -12,7 +12,9 @@
   <li>📫 How to reach me: <b>pabodhawanniarachchi@gmail.com</b></li>
 </ul> -->
 
-I am a final-year Undergraduate at the **University of Kelaniya**, passionate about building scalable software solutions and exploring the world of data.
+I am a Software Engineering Undergraduate studying at the University of Kelaniya. My work focuses on crafting seamless web applications, and my curiosity is currently leading me into the depths of Data Science.
+
+I believe in writing clean code and solving real problems.
 - 🔭 **I’m currently working on:** Full-stack web development (MERN Stack)
 - 🌱 **I’m currently learning:** Data Science, and **Spring Boot** architecture.
 - 👯 **I’m looking to collaborate on:** Open source MERN projects or Data visualization tools.
