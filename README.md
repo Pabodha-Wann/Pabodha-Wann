@@ -75,9 +75,9 @@ I believe in writing clean code and solving real problems.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pabodha-Wann&show_icons=true&theme=dark&locale=en&hide_border" alt="" width="400"/>
 </p> -->
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-stats-alpha.vercel.app/api?username=Pabodha-Wann&cc=0d1117&tc=ffffff&ic=ff1493&bc=20E8EA" alt="" width="400"/>
-</p>
+</p> -->
 
 <p align="right">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&hide_border=false&border=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="430"/> -->
