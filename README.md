@@ -43,7 +43,14 @@ I believe in writing clean code and solving real problems.
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin:5px"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="margin:5px"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="margin:5px"/</a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="margin:5px"/></a>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+      <br>Mysql
+    </td>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin:5px"/></a>
 </p>
 
