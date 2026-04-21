@@ -1,64 +1,37 @@
-<h1 align="center">Hi 👋, I'm Pabodha Wanniarachchi</h1>
-<h3 align="center">Software Engineering Undergraduate</h3>
+<div align="center">
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pabodha-wann&label=Profile%20views&color=0e75b6&style=flat" alt="pabodha-wann" />
-</p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pabodha&Wanniarachchi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Turning%20ideas%20into%20real-world%20applications%20🚀&descAlignY=58&descSize=16"/>
 
-<!-- <ul>
-  <li>🔭 I am currently pursuing <b>BSc (Hons) in Software Engineering</b> at University of Kelaniya</li>
-  <li>🌱 I’m currently learning <b>React JS</b></li>
-  <li>👯 Open source contributor</li>
-  <li>📫 How to reach me: <b>pabodhawanniarachchi@gmail.com</b></li>
-</ul> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Building+real-world+applications;Always+learning+new+things" />
+
+</div>
+
 
 I am a Software Engineering Undergraduate studying at the University of Kelaniya. My work focuses on crafting seamless web applications, and my curiosity is currently leading me into the depths of Data Science.
 
-I believe in writing clean code and solving real problems.
-- 🔭 **I’m currently working on:** Full-stack web development (MERN Stack)
-- 🌱 **I’m currently learning:** Data Science, and **Spring Boot** architecture.
-- 👯 **I’m looking to collaborate on:** Open source MERN projects or Data visualization tools.
-- ⚡ **Interests:** Software Architecture, HCI, and Digital Wellbeing.
-- 📫 **How to reach me:** [pabodhawanniarachchi@gmail.com](mailto:pabodhawanniarachchi@gmail.com)
+## About Me
+- 🎓 Software Engineering Undergraduate
+- 💻 Building real-world applications with purpose
+- ⚡ Exploring full-stack development
+- 🧠 Learning, experimenting, and improving every day
+- 🚀 Turning ideas into working solutions
 
 
 <hr width="100%">
 
-<h3 align="left">Languages and Tools</h3>
+## 🛠️ Skills & Technologies
 
-<p align="left">
-  <!-- First Line -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="margin:5px"/></a>
-</p>
+<div align="center">
 
-<p align="left">
-  <!-- Second Line -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="margin:5px"/</a>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
-      <br>Mysql
-    </td>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin:5px"/></a>
-</p>
+| 🎨 Frontend | ⚙️ Backend |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux&theme=dark) | ![](https://skillicons.dev/icons?i=nodejs,express,spring,java,php&theme=dark) |
 
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" style="margin:5px"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin:5px"/></a>
-</p>
+| 🗄️ Databases & ☁️ Cloud | 🧰 Tools & DevOps |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark) | ![](https://skillicons.dev/icons?i=git,docker,figma,firebase,jira&theme=dark) |
+
+</div>
 
 <hr width="100%">
 
