@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pabodha&Wanniarachchi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Turning%20ideas%20into%20real-world%20applications%20🚀&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pabodha%20Wanniarachchi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Turning%20ideas%20into%20real-world%20applications%20🚀&descAlignY=58&descSize=16"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Building+real-world+applications;Always+learning+new+things" />
 
