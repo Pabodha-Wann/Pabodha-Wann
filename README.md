@@ -77,7 +77,7 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://your-portfolio-link.com](https://pabodhadev.vercel.app/)" target="_blank">
+<a href="https://pabodhadev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
