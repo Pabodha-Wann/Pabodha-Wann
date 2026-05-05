@@ -73,7 +73,7 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pabodha-wanniarachchi-a0533a314" target="_blank">
+<a href="www.linkedin.com/in/pabodha-wanniarachchi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
