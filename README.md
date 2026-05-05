@@ -58,10 +58,10 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 
 <p align="right">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&hide_border=false&border=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="430"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&background=151515&border=20E8EA&stroke=ff1493&ring=ff1493&fire=20E8EA&currStreakLabel=20E8EA&hide_border=false" alt="GitHub Streak" width="430"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabodha-Wann&theme=dark&background=151515&border=FFFFFF&stroke=9D4EDD&ring=FFFFFF&fire=9D4EDD&currStreakLabel=FFFFFF&hide_border=false" alt="GitHub Streak" width="430"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabodha-Wann&theme=react-dark&bg_color=0D0B1F&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabodha-Wann&bg_color=00000000&color=FFFFFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true"/>
 
 
 
