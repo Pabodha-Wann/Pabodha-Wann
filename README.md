@@ -29,7 +29,7 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 
 | 🗄️ Databases & ☁️ Cloud | 🧰 Tools & DevOps |
 |:---:|:---:|
-| ![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark) | ![](https://skillicons.dev/icons?i=git,docker,figma,firebase,jira&theme=dark) |
+| ![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark) | ![](https://skillicons.dev/icons?i=git,github,docker,figma,firebase,postman,jira&theme=dark) |
 
 </div>
 
