@@ -25,7 +25,7 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 
 | 🎨 Frontend | ⚙️ Backend |
 |:---:|:---:|
-| ![](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux&theme=dark) | ![](https://skillicons.dev/icons?i=nodejs,express,spring,java,php,fastapi&theme=dark) |
+| ![](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=dark) | ![](https://skillicons.dev/icons?i=nodejs,express,spring,java,php,fastapi&theme=dark) |
 
 | 🗄️ Databases & ☁️ Cloud | 🧰 Tools & DevOps |
 |:---:|:---:|
